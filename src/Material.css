@@ -1,0 +1,25 @@
+.material_container{
+  height: 190px;
+  width:790px;
+  border-radius: 12px;
+  box-shadow: inset 0 -4px 3px #57d5a5;
+    
+}
+
+  .para_div .material_para{
+    text-align:center;
+    text-transform: capitalize;
+    font-size: 1.1rem;
+    padding:0.5rem 1rem;
+  }
+  .h1_para{
+    font-size: 1rem;
+    font-weight: 600;
+margin-left: 40px;
+
+  }
+  .flow-image{
+    margin-top:30px;
+    width: 800px;
+    height: 322px;
+  }
